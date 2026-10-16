@@ -1,0 +1,105 @@
+{
+  "rank": 3,
+  "loss": 0.0,
+  "all_pass": true,
+  "sequence": [
+    [
+      "open_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "single_step",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ]
+  ],
+  "devices": [
+    {
+      "index": 1,
+      "family": "open_stub",
+      "geometry": {
+        "Lsub": 10.288,
+        "Lmain": 6.288,
+        "x_stub": 3.236,
+        "Lstub": 2.4324,
+        "Wstub": 1.1683
+      }
+    },
+    {
+      "index": 2,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 11.467600000000001,
+        "Lmain": 7.4676,
+        "x_stub": 4.0907,
+        "Lstem": 1.1229,
+        "Wstem": 1.3086,
+        "Lcap": 2.5465,
+        "Wcap": 1.6606
+      }
+    },
+    {
+      "index": 3,
+      "family": "single_step",
+      "geometry": {
+        "Lsub": 6.6915,
+        "Ls": 2.6915,
+        "Ws": 4.6959
+      }
+    },
+    {
+      "index": 4,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 10.431000000000001,
+        "Lmain": 6.431,
+        "x_stub": 3.0743,
+        "Lstem": 1.3907,
+        "Wstem": 1.2101,
+        "Lcap": 3.8073,
+        "Wcap": 1.6267
+      }
+    },
+    {
+      "index": 5,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 10.7235,
+        "Lmain": 6.7235,
+        "x_stub": 3.9311,
+        "Lstem": 2.8277,
+        "Wstem": 0.9295,
+        "Lcap": 3.9226,
+        "Wcap": 0.5414
+      }
+    },
+    {
+      "index": 6,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 13.6421,
+        "Lmain": 9.6421,
+        "x_stub": 4.0352,
+        "Lstem": 1.8199,
+        "Wstem": 0.7398,
+        "Lcap": 1.0087,
+        "Wcap": 1.3877
+      }
+    }
+  ]
+}

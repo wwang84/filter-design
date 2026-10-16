@@ -1,0 +1,81 @@
+{
+  "rank": 2,
+  "loss": 0.0,
+  "all_pass": true,
+  "sequence": [
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ],
+    [
+      "t_stub",
+      0
+    ]
+  ],
+  "devices": [
+    {
+      "index": 1,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 13.7997,
+        "Lmain": 9.7997,
+        "Wmain": 3.7891,
+        "x_stub": 4.8684,
+        "Lstem": 1.1349,
+        "Wstem": 0.8882,
+        "Lcap": 1.3344,
+        "Wcap": 0.9528
+      }
+    },
+    {
+      "index": 2,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 11.6434,
+        "Lmain": 7.6434,
+        "Wmain": 3.2312,
+        "x_stub": 2.4904,
+        "Lstem": 1.6612,
+        "Wstem": 0.8888,
+        "Lcap": 2.0231,
+        "Wcap": 1.0595
+      }
+    },
+    {
+      "index": 3,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 15.1009,
+        "Lmain": 11.1009,
+        "Wmain": 4.6412,
+        "x_stub": 7.4227,
+        "Lstem": 1.6395,
+        "Wstem": 0.4943,
+        "Lcap": 2.8252,
+        "Wcap": 1.5753
+      }
+    },
+    {
+      "index": 4,
+      "family": "t_stub",
+      "geometry": {
+        "Lsub": 12.1825,
+        "Lmain": 8.1825,
+        "Wmain": 3.3413,
+        "x_stub": 4.287,
+        "Lstem": 1.3076,
+        "Wstem": 0.8679,
+        "Lcap": 2.1997,
+        "Wcap": 0.9011
+      }
+    }
+  ]
+}
