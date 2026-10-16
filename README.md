@@ -2,6 +2,10 @@
 
 Machine learning models for correcting S-parameter cascade simulation errors in RF/microwave filter design.
 
+## Note
+
+Due to file size, dataset/cascade/test.json and dataset/cascade/train.json are missing. Please contact us if you do need these files.
+
 ## Overview
 
 This project addresses the accumulation of errors when cascading S-parameters of individual RF filter subdevices (simulated individually in HFSS). Two complementary approaches are used:
